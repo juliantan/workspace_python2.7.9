@@ -1,0 +1,3 @@
+#!/home/tanjl/workspace_python2.7.9/bin/python
+import virtualenv
+virtualenv.main()
